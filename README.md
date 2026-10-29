@@ -2,10 +2,10 @@
 🔭 I am currently working as a Fullstack Developer<br><br>🌱 I am currently learning basic System Architecture & System Design and Devops
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hoangduonng/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hi@hoangduong.me)
 
-# 💻 Tech Stack
+# Tech Stack
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
